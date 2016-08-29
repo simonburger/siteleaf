@@ -2,6 +2,9 @@
 title: Simon Burger
 timezone: Australia/Brisbane
 collections:
+  portfolio-piece:
+    title: Portfolio piece
+    output: true
   posts:
     title: Posts
     output: true
